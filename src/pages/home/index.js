@@ -8,7 +8,7 @@ class Home extends Component{
         return (
           <HomeWrapper>
               <BannerWrapper>
-                  轮播图
+                  banner
               </BannerWrapper>
               <FloorOneWrapper>
                   第一楼
